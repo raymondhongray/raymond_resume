@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="25px" height="19px" viewBox="0 0 25 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-18.000000, -14.000000)">
+            <rect id="Rectangle-4" fill-opacity="0" fill="#959595" x="18" y="14" width="25" height="17"></rect>
+            <path d="M24,19 L29,19 L29,18 L24,18 L24,19 Z M30,19 L30,18 C30,17.448 29.552,17 29,17 L24,17 C23.448,17 23,17.448 23,18 L23,28 C23,28.552 23.448,29 24,29 L36,29 C36.552,29 37,28.552 37,28 L37,20 C37,19.448 36.552,19 36,19 L30,19 Z" id="Page-1" fill="#EF815F"></path>
+        </g>
+    </g>
+</svg>

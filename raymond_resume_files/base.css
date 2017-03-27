@@ -1,0 +1,23 @@
+* {
+	-webkit-font-smoothing: antialiased;
+	font-family: Courier;
+}
+
+h2, h4, h5, span {
+	font-size: 18px;
+	line-height: 1.7;
+	font-weight: 400;
+}
+
+h5 {
+	margin: 0;
+}
+
+html, body {
+	height: 100%;
+	background-color: #1E1E1E;
+}
+
+.h-100 {
+	height: 300px;
+}
